@@ -1,5 +1,6 @@
 # Sign Language Translator
-Sign Language Translator is a machine learning project aims to translate hand gestures to strings. We developed this as a term project of [CS 464 Machine Learning](http://ciceklab.cs.bilkent.edu.tr/ercumentcicek/cs-464-introduction-to-machine-learning-spring-2019/) course.
+Sign Language Translator is a machine learning project aims to translate hand gestures to strings. We developed this as a minor project for the college.
+
 ## How to use
 1) Clone the repo: `git clone https://github.com/ayberktecimer/Sign_Language_Detector.git && cd Sign_Language_Detector `
 2) (Optional) Create a virtual environment
@@ -17,7 +18,3 @@ Content <br />
 Image size is 300x300 <br />
 The first letter indicates the label (e.g. A-1554389290.JPG) <br />
 "J" is missing
-
-
-
-## [Demo link](https://www.youtube.com/watch?v=ruKhQRJl6mI&list=LLEb5yg-S-qwswuSj_ktKP6A&index=2&t=0s)
