@@ -2,7 +2,7 @@
 Sign Language Translator is a machine learning project aims to translate hand gestures to strings. We developed this as a minor project for the college.
 
 ## How to use
-1) Clone the repo: `git clone https://github.com/ayberktecimer/Sign_Language_Detector.git && cd Sign_Language_Detector `
+1) Clone the repo: `git clone https://github.com/ShreyaskarJaiswal/Linguistic_Sign_Language_Detector.git && cd Sign_Language_Detector `
 2) (Optional) Create a virtual environment
 3) Install dependencies: `pip3 install -r requirements.txt `
 4) Train models: `cd src && python3 Runner.py ` Models are saved in `generatedModels` directory
